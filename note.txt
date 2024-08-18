@@ -1,0 +1,2 @@
+Python's OOP uses classes and objects to organize code.
+Objects in OOP encapsulate data and methods together.
